@@ -37,4 +37,7 @@ $ git add path/         # 将指定目录添加到暂存区
 
 # 将文件移出暂存区
 $ git rm --cached fileName
+
+# 将暂存区的文件提交到本地仓库
+$ git commit -m 'msg'
 ```
