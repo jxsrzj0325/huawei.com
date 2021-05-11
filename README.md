@@ -43,4 +43,37 @@ $ git commit -m 'msg'
 
 # 查看提交日志
 $ git log
+
+# 恢复历史版本
+$ git reset --hard hash(前6位)
+
+# 查看帮助
+$ git --help
+
+# 恢复文件
+$ git checkout filename
 ```
+
+### github
+https://github.com/
+它是全球最大的IT开源社区 提倡社交编程 
+全球最大的同性交友网站
+
+github提供了免费的git仓库(public)
+github也有私有仓库 收费
+
+开源大法好
+
+比较成功的前端开源项目
+jQuery
+Bootstrap
+Vue
+React
+Angular
+ANTD
+MUI
+...
+
+2018年10月 微软收购了gihub
+收购的当天微软宣布 闭源仓库免费
+
